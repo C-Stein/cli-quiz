@@ -1,0 +1,17 @@
+body {
+	font-family: Arial;
+}
+section {
+	font-family: Tahoma;
+}
+.favorite {
+	color: yellow;
+}
+.main {
+	float: left;
+	width: 65%;
+}
+.sidebar {
+	float: right;
+	width: 30%;
+}

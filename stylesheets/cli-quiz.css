@@ -14,6 +14,7 @@ section {
 .sidebar {
 	float: right;
 	width: 30%;
+	background-color: lightyellow;
 }
 footer {
 	clear:  both;
